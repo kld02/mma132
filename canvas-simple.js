@@ -1,6 +1,8 @@
 // This object will hold all exports.
 var Haste = {};
 
+/* I hope it is not this stupid */
+
 /* Thunk
    Creates a thunk representing the given closure.
    Since we want automatic memoization of as many expressions as possible, we
